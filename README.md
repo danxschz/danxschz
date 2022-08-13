@@ -1,5 +1,11 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> &nbsp; Hi there, I'm Daniel!
 
+- 👨‍💻 Frontend Web Developer
+- 🌍 Based in Colombia
+- 🌱 Currently learning more on data structures and algorithms
+- 💬 Ask me about React, JavaScript and CSS
+- 📫 How to reach me: danxschz@gmail.com or [in/danxschz](https://www.linkedin.com/in/danxschz/)
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> &nbsp; Languages and Tools
 
 <p align="center">

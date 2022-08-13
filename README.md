@@ -1,4 +1,4 @@
-## <img src="img/waving.gif" width="30px"> &nbsp; Hi there, I'm Daniel!
+## <img src="img/waving.gif" alt="" width="30px"> &nbsp; Hi there, I'm Daniel!
 
 - 👨‍💻 Frontend Web Developer
 - 🌍 Based in Colombia
@@ -6,7 +6,7 @@
 - 💬 Ask me about React, JavaScript and CSS
 - 📫 Reach me at danxschz@gmail.com or [in/danxschz](https://www.linkedin.com/in/danxschz/)
 
-## <img src="img/code.gif" width="30px"> &nbsp; Languages and Tools
+## <img src="img/code.gif" alt="" width="30px"> &nbsp; Languages and Tools
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </p>
 
-## <img src="img/handshake.gif" width="30"> &nbsp; Contact
+## <img src="img/handshake.gif" alt="" width="30"> &nbsp; Contact
 
 <p align="center">
   <a href="https://github.com/danxschz">

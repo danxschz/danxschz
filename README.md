@@ -1,12 +1,12 @@
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> &nbsp; Hi there, I'm Daniel!
+## <img src="img/waving.gif" width="30px"> &nbsp; Hi there, I'm Daniel!
 
 - 👨‍💻 Frontend Web Developer
 - 🌍 Based in Colombia
 - 🌱 Currently learning more on data structures and algorithms
 - 💬 Ask me about React, JavaScript and CSS
-- 📫 How to reach me: danxschz@gmail.com or [in/danxschz](https://www.linkedin.com/in/danxschz/)
+- 📫 Reach me at danxschz@gmail.com or [in/danxschz](https://www.linkedin.com/in/danxschz/)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> &nbsp; Languages and Tools
+## <img src="img/code.gif" width="30px"> &nbsp; Languages and Tools
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </p>
 
-## <img src="https://c.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" width="30"> &nbsp; Contact
+## <img src="img/handshake.gif" width="30"> &nbsp; Contact
 
 <p align="center">
   <a href="https://github.com/danxschz">

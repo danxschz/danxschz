@@ -1,6 +1,6 @@
 ## <img src="img/waving.gif" alt="" width="30px"> &nbsp; Hi there, I'm Daniel!
 
-- 👨‍💻 Full Stack Web Developer
+- 👨‍💻 Full Stack Developer
 - 🌍 Colombian based in Venezuela
 - 🔭 Currently working on [Ito Horrors](https://ito.danxschz.com)
 - 💬 Ask me about Express, React, and TypeScript
